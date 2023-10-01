@@ -1,0 +1,14 @@
+{
+    "name": "dfabulich/apple-play-store-reviews-rss-feed",
+    "description": "An RSS feed for your Apple App Store app reviews",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Dan Fabulich",
+            "email": "dan@fabulich.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.8"
+    }
+}
